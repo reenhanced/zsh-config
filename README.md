@@ -4,7 +4,7 @@ Installation
 To install, run
 
     cd ~
-    git clone git://github.com/nviennot/zsh-config.git .oh-my-zsh
+    git clone git://github.com/reenhanced/zsh-config.git .oh-my-zsh
     ln -s .oh-my-zsh/zshrc .zshrc
     cd .oh-my-zsh
     git submodule init
